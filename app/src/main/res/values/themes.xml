@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Tema da aplicação baseado no Material Components -->
+    <style name="Theme.TextRecognizer" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Aqui você pode definir outras personalizações de cor, etc. -->
+    </style>
+
+</resources>
